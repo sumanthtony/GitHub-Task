@@ -5,7 +5,7 @@ Following steps taken to complete the task:
 
 **--->** Launched a sample EC2 instance and installed Git and created few files.
 
-**--->** Initialized the git and tracked the files and committed to master and from master branch created new **feature & dev branches**
+**--->** Initialized the git, tracked the files and committed to master and from master branch created new **feature & dev branches**
 
 <img width="262" height="89" alt="Added_branches" src="https://github.com/user-attachments/assets/422f6fe0-c732-47bc-8a3a-60fc89130cc6" />
 
